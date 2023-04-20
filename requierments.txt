@@ -1,0 +1,10 @@
+# pip freeze i dobijemo popis svega sto koristimo u OVOM TRENUTKU:
+# naoon toga to stavljamo u requierments.txt
+
+# a pip list ispisuje sve sto imamo instalirano 
+
+
+Pillow==9.4.0
+requests==2.28.2
+SQLAlchemy==2.0.4
+ttkbootstrap==1.10.1
